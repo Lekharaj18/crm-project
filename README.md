@@ -63,7 +63,8 @@ crm-frontend/
 │ └── App.js
 
 
----
+<img width="1600" height="809" alt="img1" src="https://github.com/user-attachments/assets/0d12c1a5-bd1f-483e-917f-826b5d504f04" />
+
 
 ## ⚙️ Setup Instructions
 
@@ -76,7 +77,5 @@ Frontend
 cd crm-frontend
 npm install
 npm start
-
-<img width="1600" height="809" alt="img1" src="https://github.com/user-attachments/assets/58f4256a-a2e8-4363-9a35-44ea26ca2fb2" />
 
 
